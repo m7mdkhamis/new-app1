@@ -11,5 +11,6 @@ class Calculations:
     def get_division(self):
         return self.a / self.b
     def message (self):
-        print("heelo")
+        print("hello ")
+print("this is the first add")
 
