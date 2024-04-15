@@ -14,3 +14,5 @@ class Calculations:
         print("hello ")
 print("this is the first add")
 
+print("new changes aslkasfa")
+
